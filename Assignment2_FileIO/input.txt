@@ -1,0 +1,3 @@
+Java is a popular programming language. Java is used for web apps, mobile apps and enterprise software.
+Learning Java is fun, and practice makes learning easier!
+Collections in Java include List, Set and Map. A Map stores key-value pairs.
